@@ -1,0 +1,19 @@
+{
+  "name": "0xroyalties",
+  "version": "1.0.0",
+  "description": "Open source onchain royalty processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markymark617/0xRoyalties.git"
+  },
+  "author": "MarkF",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/markymark617/0xRoyalties/issues"
+  },
+  "homepage": "https://github.com/markymark617/0xRoyalties#readme"
+}
